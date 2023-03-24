@@ -1,7 +1,7 @@
 My journey through learning Python
 
 
-# Web Development
+# Python
 
 <aside>
 💡 The repository contains python basics, automations, and some projects.
@@ -17,192 +17,91 @@ Udemy Courses:
 - [The Python Mega Course: Learn Python in 50 Days with 20 Apps](https://www.udemy.com/course/the-python-mega-course/)  47 Hours
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) 60 Hours
 
-# **Milestone 0: Welcome to Web Course**
+# **Course 01: Bootcamp**
 
-### Module 00: **Welcome Module**
+### Module 00: **Template**
 
-`Date: December 28, 2022`
+`Date: December 28, 2023`
 
 <aside>
-📌 **SUMMARY: Welcome to Complete Web Development Course.**
+📌 **SUMMARY: Template**
 
 </aside>
 
 ---
 
-### **Module 01: Orientation**
+### **Module 01: Template**
 
 `Date: December 29, 2022`
 
 ### Notes
 
-- Install VS Code: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
-- Install Node: [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
-- Install Notion: [https://www.notion.so/](https://www.notion.so/)
-- Install Git: [https://git-scm.com/downloads](https://git-scm.com/downloads)
-- Open a GitHub account.  [https://github.com/](https://github.com/)
+- Template
+- Template
+- Template
 
 <aside>
-📌 **SUMMARY: Preparation for the course beginning.**
+📌 **SUMMARY: Template**
+
+</aside>
+
+---
+# **Course 02: Automation**
+
+### Module 00: **Template**
+
+`Date: December 28, 2023`
+
+<aside>
+📌 **SUMMARY: Template**
 
 </aside>
 
 ---
 
-# **Milestone 1: HTML, CSS and GitHub as a beginner**
+### **Module 01: Template**
 
-### Module 01: Learn HTML
-
-`Date: December 31, 2022`
+`Date: December 29, 2022`
 
 ### Notes
 
-- Introduction to HTML and how to create HTML file.
-- Tags: paragraph, bold, strong, italic, emphasize, small, heading (h1,h2,….), anchor, image, div, list.
-- Inline vs Block Elements (bold, italic vs paragraph, heading)
-- F****orms: input types, buttons and text field, select, option.****
-- ****Html Structure In Vs Code Doctype, Html, Head, Meta, Title****
+- Template
+- Template
+- Template
 
 <aside>
-📌 **SUMMARY: Basic html tags, options, links, images.**
+📌 **SUMMARY: Template**
 
 </aside>
 
 ---
 
-### Module 02: Learn CSS
+# **Course 03: Projects**
 
-`Date: January 01, 2023`
+### Module 00: **Template**
+
+`Date: December 28, 2023`
+
+<aside>
+📌 **SUMMARY: Template**
+
+</aside>
+
+---
+
+### **Module 01: Template**
+
+`Date: December 29, 2022`
 
 ### Notes
 
-- ...
-- ...
-- …
-- …
-- …
+- Template
+- Template
+- Template
 
 <aside>
-📌 **SUMMARY:**
+📌 **SUMMARY: Template**
 
 </aside>
-
----
-
-### Module 03: Learn GitHub
-
-`Date: January 02, 2023`
-
-### Notes
-
-- ...
-- ...
-- …
-- …
-- …
-
-<aside>
-📌 **SUMMARY:**
-
-</aside>
-
----
-
-### Module 04: More HTML & CSS
-
-`Date: January 03, 2023`
-
-### Notes
-
-- ...
-- ...
-- …
-- …
-- …
-
-<aside>
-📌 **SUMMARY:**
-
-</aside>
-
----
-
-### Module 05: Portfolio Website
-
-`Date: January 04, 2023`
-
-### Notes
-
-- ...
-- ...
-- …
-- …
-- …
-
-<aside>
-📌 **SUMMARY:**
-
-</aside>
-
----
-
-### Module 05.5: Practice Day
-
-`Date: January 05, 2023`
-
-### Notes
-
-- ...
-- ...
-- …
-- …
-- …
-
-<aside>
-📌 **SUMMARY:**
-
-</aside>
-
----
-
-### Module 06: **Assignment 01**
-
-`Date: January 06, 2023`
-
-### Notes
-
-- ...
-- ...
-- …
-- …
-- …
-
-<aside>
-📌 **SUMMARY:**
-
-</aside>
-
----
-
-### Module 06.5: Bonus Class
-
-`Date: January 07, 2023`
-
-### Notes
-
-- ...
-- ...
-- …
-- …
-- …
-
-<aside>
-📌 **SUMMARY:**
-
-</aside>
-
----
-
-# **Milestone 2:**
 
 ---
