@@ -5,19 +5,17 @@ My journey through learning Python
 
 <aside>
 💡 The repository contains python basics, automations, and some projects.
-
 </aside>
+
 
 
 Udemy Courses: 
 
-- [The Complete Front-End Web Development Course](https://www.udemy.com/course/front-end-web-development/) 17 Hours
-- [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) 64 Hours
-- [Web Design for Beginners: Real World Coding in HTML & CSS](https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/) 11 Hours
-- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)  38 Hours
-- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) 42 Hours
-- [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/course/web-design-secrets/) 1 Hour
-- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) 69 Hours
+- [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) 22 Hours
+- [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) 10 Hours
+- [Python : Master Programming and Development with 15 Projects](https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/) 32 Hours
+- [The Python Mega Course: Learn Python in 50 Days with 20 Apps](https://www.udemy.com/course/the-python-mega-course/)  47 Hours
+- [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) 60 Hours
 
 # **Milestone 0: Welcome to Web Course**
 
