@@ -34,11 +34,27 @@ Udemy Courses:
 
 `Date: December 29, 2022`
 
-### Notes
+### Notes on GitHub
 
-- Template
-- Template
-- Template
+- git --version
+- git help --all
+- git log
+- git clone [url]
+- git remote add origin https://github.com/sultanul-ovi/Learning_Python
+
+- git init
+- git config --global user.name "sultanul-ovi"
+- git config --global user.email "sultanulislamovi@gmail.com"
+
+- git status
+- git add -A
+- git commit -m "note"
+- git pull origin master
+
+
+- git branch --set-upstream-to=origin/master master
+- git pull
+- git push origin
 
 <aside>
 📌 **SUMMARY: Template**
