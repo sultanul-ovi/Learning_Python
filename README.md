@@ -32,7 +32,7 @@ Udemy Courses:
 
 ### **Module 01: Template**
 
-`Date: December 29, 2022`
+`Date: March 25, 2023`
 
 ### Notes on GitHub
 
@@ -64,24 +64,13 @@ Udemy Courses:
 ---
 # **Course 02: Automation**
 
-### Module 00: **Template**
-
-`Date: December 28, 2023`
-
-<aside>
-📌 **SUMMARY: Template**
-
-</aside>
-
----
-
-### **Module 01: Template**
+### **Module 01: Important Materials**
 
 `Date: December 29, 2022`
 
 ### Notes
 
-- Template
+- Main Website: [Automate the boring stuff book/website](https://automatetheboringstuff.com/)
 - Template
 - Template
 
