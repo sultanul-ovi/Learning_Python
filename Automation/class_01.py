@@ -15,4 +15,8 @@ print('Hello' + 'Ovi' * 3)
 a = 20
 print(a)
 
+spam = True
+print(spam)
 
+# Comparison Operators: == != < > <= >=
+# and or not
