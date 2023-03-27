@@ -2,6 +2,7 @@ import random
 import sys
 import os
 import math
+import pyperclip
 
 # in the python location C:/Users/asus/AppData/Local/Programs/Python/Python311/python.exe
 #  > pip.exe install pyperclip
@@ -14,6 +15,6 @@ import math
 
 r = random.randint(1,10)
 print(r)
-pyperclip.copy('Hello')
+pyperclip.copy('Hello words')
 pyperclip.paste()
 sys.exit() # stops program mid way
