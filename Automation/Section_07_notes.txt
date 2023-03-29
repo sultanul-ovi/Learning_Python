@@ -1,3 +1,6 @@
+Section 07: Dictionaries
+
+Class 01:
 Dictionaries contain key-value pairs. Keys are like a list's indexes.
 Dictionaries are mutable. Variables hold references to dictionary values, not the dictionary value itself.
 Dictionaries are unordered. There is no "first" key-value pair in a dictionary.
